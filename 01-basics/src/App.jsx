@@ -1,8 +1,12 @@
+import MyFunction from "./Sarun";
 
 function App() {
-
   return (
-    <h1>Hello World</h1>
+    // return fragment
+    <> 
+      <MyFunction />
+      <h1>hdhh</h1>
+    </>
   )
 }
 
